@@ -1,0 +1,26 @@
+.ResList li{
+	border:none;
+}
+.Res-name{
+	margin: 10px;
+	font-size: 22px;
+	font-weight: bold;
+	overflow:hidden;
+	white-space:nowrap;
+	text-overflow:ellipsis;
+}
+.Res-body{
+	margin: 10px;
+	font-size: 18px;
+	overflow:hidden;
+	white-space:nowrap;
+	text-overflow:ellipsis;  
+	word-break: break-all;
+  	word-wrap: break-word;
+}
+.res-apan{
+	margin: 10px;
+}
+.res-apan span{
+	margin-right: 8px;
+}
